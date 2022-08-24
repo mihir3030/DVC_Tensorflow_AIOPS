@@ -1,0 +1,7 @@
+source_data_dirs:
+  - C:/work-projects/DVC_Tensorflow_AIOPS/outside_data/man/
+  - C:/work-projects/DVC_Tensorflow_AIOPS/outside_data/woman/
+
+local_data_dirs:
+  - data/man
+  - data/woman
